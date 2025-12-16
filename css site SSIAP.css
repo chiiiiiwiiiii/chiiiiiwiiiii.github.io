@@ -15,7 +15,7 @@ body {
 .header-logo a { 
     text-decoration: none;
     color: rgb(38, 38, 255);
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     font-weight: bold;
 }
 
@@ -194,4 +194,5 @@ body {
 
 .articles .article__vid {
     grid-column: 1 / 4;   /* image → colonnes 1 à 4 */
+
 }
